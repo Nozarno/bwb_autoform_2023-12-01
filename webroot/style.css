@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
+
+main {
+    font-family: 'Roboto', sans-serif;
+}
+
+#intro {
+    column-count: 2;
+    justify-content: center;
+    margin: auto;
+    padding-left: 10%;
+    
+}
+
+#intro  header {
+    text-align: center;
+}
+#image-profile img {
+    width: 40%;
+    height: auto;
+}
+
+#container {
+    column-count: 2;
+    column-gap: 30px;
+    column-width: 30%;
+
+}
+
+#competence {
+    padding-left: 10%;
+}
+
+#xp-projet {
+    margin-left: -10%;
+    width: 100%;
+}
+
+main footer {
+    padding-top: 3em;
+    text-align: center;
+}
