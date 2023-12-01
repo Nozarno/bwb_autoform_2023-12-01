@@ -5,4 +5,4 @@
 - [x] Faire un CV html CSS
 - [x] modification du host -> moncv.html
 - [X] Verifier le fonctionement avec docker 
-- [ ] Faire un résumer pdf de web2 et web3
+- [x] Faire un résumer pdf de web2 et web3
